@@ -6,3 +6,4 @@ arabic-reshaper
 python-bidi
 cvzone
 SpeechRecognition
+streamlit-webrtc
