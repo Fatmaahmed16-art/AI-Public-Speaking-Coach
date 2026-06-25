@@ -1,9 +1,8 @@
-streamlit
-opencv-python-headless
-numpy
-mediapipe
+streamlit>=1.39.0
+SpeechRecognition
 arabic-reshaper
 python-bidi
+opencv-python-headless
+mediapipe
 cvzone
-SpeechRecognition
-streamlit-webrtc
+numpy
